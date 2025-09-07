@@ -1,8 +1,9 @@
+import ImageGrid from './components/ImageGrid/ImageGrid';
 
 export default function Home() {
   return (
-    <div className="Home flex flex-col items-center">
-      welcome
+    <div className="Home">
+      <ImageGrid />
     </div>
   );
 }

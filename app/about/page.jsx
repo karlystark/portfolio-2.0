@@ -21,7 +21,7 @@ export default function About() {
                     cinematheque, sfmoma, and the pacific film archive.
                     <br></br>
                     <br></br>
-                    they currently lead a team of remote instructors at the last mile, direct programs in learning & development, and teach courses in web development & MERN stack for justice-impacted folks across the country. they love building creative, accessible websites & apps that bring people closer to their communities.
+                    they currently lead a team of remote instructors at the last mile, direct programs in learning & development, and teach courses in web development & MERN stack for justice-impacted folks across the country. they love building creative, accessible websites & apps for their community.
                 </div>
                 <br></br>
                 <span className="pr-2">find them here to collaborate:</span>
