@@ -1,9 +1,9 @@
-import ImageGrid from './components/ImageGrid/ImageGrid';
+import DescriptionList from './components/DescriptionList/DescriptionList';
 
 export default function Home() {
   return (
     <div className="Home">
-      <ImageGrid />
+      <DescriptionList />
     </div>
   );
 }
