@@ -20,8 +20,8 @@ export default function Logo() {
         onMouseLeave={() => setIsHovered(false)}
         className="flex items-center m-8"
       >
-       <i className={`bi ${isHovered ? `bi-circle-fill text-[#b71e1e]` : `bi-circle`} text-xl pr-2`}></i>
-        <h1 className="text-xl font-semibold">k.stark</h1>
+       <i className={`bi ${isHovered ? `bi-circle-fill text-[#b71e1e]` : `bi-circle`} text-3xl pr-2`}></i>
+        <h1 className="text-3xl font-semibold">k.stark</h1>
       </Link>
     </div>
   );
