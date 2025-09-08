@@ -7,7 +7,7 @@ const projects = [
     length: "",
     role: ["director", "cinematographer", "editor"],
     tools: [],
-    shortDescription: "practice seeing better",
+    shortDescription: "i practice seeing better",
     longDescription: "A project in progress. I take my camera on solo day trips and try to be as present, curious, and distractable as possible. I use this as a practice to develop films and explore different visual stimuli.",
     screenings: null,
     siteLink: '',
