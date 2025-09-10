@@ -1,14 +1,14 @@
 const projects = [
   {
-    name: "seeing better",
+    name: "pull notes",
     year: "2025",
     format: "digital",
     type: "film",
     length: "",
     role: ["director", "cinematographer", "editor"],
     tools: [],
-    shortDescription: "i practice seeing better",
-    longDescription: "A project in progress. I take my camera on solo day trips and try to be as present, curious, and distractable as possible. I use this as a practice to develop films and explore different visual stimuli.",
+    shortDescription: "documenting",
+    longDescription: "A project in progress. It's been a while (9 years) since I've made a film, so this is me getting back into it. I take my camera on solo day trips and try to be as present, curious, and distractable as possible. I use this as a practice to develop and explore different visual stimuli - I'm a different (kind of) person now, so what pulls me? What am I noticing?",
     screenings: null,
     siteLink: '',
     img: '/birdtree.jpg',
