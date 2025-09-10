@@ -7,7 +7,7 @@ const projects = [
     length: "",
     role: ["director", "cinematographer", "editor"],
     tools: [],
-    shortDescription: "documenting",
+    shortDescription: "regular documenting",
     longDescription: "A project in progress. It's been a while (9 years) since I've made a film, so this is me getting back into it. I take my camera on solo day trips and try to be as present, curious, and distractable as possible. I use this as a practice to develop and explore different visual stimuli - I'm a different (kind of) person now, so what pulls me? What am I noticing?",
     screenings: null,
     siteLink: '',
