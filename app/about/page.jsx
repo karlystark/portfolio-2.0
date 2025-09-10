@@ -17,7 +17,7 @@ export default function About() {
                     mfa in cinema from san francisco state university, then got a fullstack software development bootcamp certificate from rithm school. over their 11 years (so far) as an educator, they&apos;ve taught and developed curriculum for middle, high school, and adult learners in filmmaking, photography, animation, and web development.
                     <br></br>
                     <br></br>
-                    they&apos;re passionate about lyrical experimental documentary work (particularly the essay film), the possibilities inherent in projecting in public space, and critical trans & queer thought/experience. their curatorial positions have included program director/curator at the great wall of oakland, guest curator at frameline san francisco lgbt film festival, and ybca critical dissent & arté útil fellow. their films have screened widely and internationally at venues like the british film institute, mcEvoy foundation for the arts, mixnyc, san francisco
+                    they&apos;re passionate about experimental documentary work (particularly the essay film), projection in public space, and critical trans & queer thought/experience. their curatorial positions have included program director/curator at the great wall of oakland, guest curator at frameline san francisco lgbt film festival, and ybca critical dissent & arté útil fellow. their films have screened widely and internationally at venues like the british film institute, mcEvoy foundation for the arts, mixnyc, san francisco
                     cinematheque, sfmoma, and the pacific film archive.
                     <br></br>
                     <br></br>
