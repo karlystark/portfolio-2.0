@@ -1,6 +1,6 @@
 const projects = [
   {
-    name: "pull notes",
+    name: "notes",
     year: "2025",
     format: "digital",
     type: "film",
@@ -8,7 +8,7 @@ const projects = [
     role: ["director", "cinematographer", "editor"],
     tools: [],
     shortDescription: "i am documenting",
-    longDescription: "A project in progress. It's been a while (9 years) since I've made a film, so this is me getting back into it. I take my camera on solo day trips and try to be as present, curious, and distractable as possible. I use this as a practice to develop and explore different visual stimuli - I'm a different (kind of) person now, so what pulls me? What am I noticing?",
+    longDescription: "A project in progress. It's been a while (9 years) since I've made a film, so this is me getting back into it. I take my camera on solo day trips and try to be as present, curious, and distractable as possible. What am I noticing?",
     screenings: null,
     siteLink: '',
     img: '/birdtree.jpg',
