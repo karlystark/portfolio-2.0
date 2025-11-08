@@ -11,7 +11,7 @@ export default function About() {
                 alt="k.stark"
                 className="rounded-xl self-center md:self-start"
             />
-            <div className="pt-10 md:pt-0 text-md">
+            <div className="pt-10 md:pt-0 text-lg">
                 <div>
                     <span id="about-name">k.stark</span> is an <span className="hover:underline hover:decoration-wavy hover:text-[#b71e1e] decoration-2 underline-offset-4">educator</span>, <span className="hover:underline hover:decoration-wavy hover:text-[#b71e1e] decoration-2 underline-offset-4">documentary filmmaker</span>, and <span className="hover:underline hover:decoration-wavy hover:text-[#b71e1e] decoration-2 underline-offset-4">software engineer</span> based in the Bay Area. They studied film at UC Berkeley, received an
                     MFA in Cinema from San Francisco State University, then studied fullstack software development at Rithm School. Over their 12 years (so far) as an educator, they&apos;ve taught and developed curriculum for middle, high school, and adult learners in filmmaking, photography, animation, and web development.
