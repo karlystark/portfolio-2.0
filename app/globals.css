@@ -1,6 +1,16 @@
 @import "tailwindcss";
 @import "bootstrap-icons/font/bootstrap-icons.css";
 
+@font-face {
+  font-family: "Halyard-Display";
+  src: url('../public/fonts/Halyard-Display.otf');
+}
+
+@font-face {
+  font-family: "Halyard-Display-Light";
+  src: url('../public/fonts/Halyard-Display-Light.otf');
+}
+
 :root {
   --background: #f3f3f2;
   --foreground: #171717;
@@ -14,4 +24,9 @@
 body {
   background: var(--background);
   color: var(--foreground);
+  font-family: "Halyard-Display-Light";
+}
+
+#about-name {
+  font-family: "Halyard-Display";
 }

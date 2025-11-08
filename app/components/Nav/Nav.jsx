@@ -13,7 +13,7 @@ export default function Nav() {
         </div>
 
         {/* Links */}
-        <div className="flex flex-col items-center gap-4 md:flex-row md:gap-8">
+        <div className="flex flex-col items-center gap-4 md:flex-row md:gap-8 text-xl">
           <Link
             href="/about"
             className="text-black no-underline hover:text-[#b71e1e] hover:underline hover:decoration-wavy underline-offset-6"
