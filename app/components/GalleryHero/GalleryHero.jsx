@@ -15,7 +15,7 @@ const projects = [
     name: "2",
     handle: "2"
   },
-  {
+   {
     name: "3",
     handle: "3"
   },
