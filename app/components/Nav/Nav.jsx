@@ -32,6 +32,12 @@ export default function Nav() {
           >
             writing
           </Link>
+          <Link
+            href="https://mixcloud.com/suntub"
+            className="text-black no-underline hover:text-[#b71e1e] hover:underline hover:decoration-wavy underline-offset-6"
+          >
+            mixes
+          </Link>
         </div>
       </div>
     </nav>
