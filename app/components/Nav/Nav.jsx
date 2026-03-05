@@ -26,7 +26,7 @@ export default function Nav() {
           >
             projects
           </Link>
-          <Link
+          {/* <Link
             href="https://kstark.substack.com/"
             className="text-black no-underline hover:text-[#b71e1e] hover:underline hover:decoration-wavy underline-offset-6"
           >
@@ -37,7 +37,7 @@ export default function Nav() {
             className="text-black no-underline hover:text-[#b71e1e] hover:underline hover:decoration-wavy underline-offset-6"
           >
             mixes
-          </Link>
+          </Link> */}
         </div>
       </div>
     </nav>
