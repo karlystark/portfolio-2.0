@@ -13,14 +13,14 @@ export default function About() {
             />
             <div className="pt-10 md:pt-0 text-lg">
                 <div>
-                    <span id="about-name">k.stark</span> is an <span className="hover:underline hover:decoration-wavy hover:text-[#b71e1e] decoration-2 underline-offset-4">educator</span>, <span className="hover:underline hover:decoration-wavy hover:text-[#b71e1e] decoration-2 underline-offset-4">documentary filmmaker</span>, and <span className="hover:underline hover:decoration-wavy hover:text-[#b71e1e] decoration-2 underline-offset-4">software engineer</span> based in the Bay Area. They studied film at UC Berkeley, received an
-                    MFA in Cinema from San Francisco State University, then studied fullstack software development at Rithm School. Over their 12 years (so far) as an educator, they&apos;ve taught and developed curriculum for middle, high school, and adult learners in filmmaking, photography, animation, and web development.
+                    <span id="about-name">k.stark</span> is an <span className="hover:underline hover:decoration-wavy hover:text-[#b71e1e] decoration-2 underline-offset-4">educator and instructional coach</span>, <span className="hover:underline hover:decoration-wavy hover:text-[#b71e1e] decoration-2 underline-offset-4">documentary filmmaker</span>, and <span className="hover:underline hover:decoration-wavy hover:text-[#b71e1e] decoration-2 underline-offset-4">web developer</span> based in the Bay Area. They studied film at UC Berkeley, received an
+                    MFA in Cinema from San Francisco State University, then studied fullstack software development at Rithm School. Over their 13 years (so far) as an educator, they&apos;ve taught and developed curriculum for middle, high school, and adult learners in filmmaking, photography, animation, web development, digital literacy, project management, and pedagogy.
                     <br></br>
                     <br></br>
                     They&apos;re passionate about experimental documentary work (particularly the essay film) & projection in public space. Their curatorial positions have included Program Director/Curator at the <Link href="https://www.instagram.com/greatwallofoakland/">Great Wall of Oakland</Link>, Guest Curator at Frameline San Francisco LGBT Film Festival, and Creative Dissent Fellow (Arté Útil) at Yerba Buena Center for the Arts. Their films have screened widely and internationally at venues like the Pacific Film Archive, SFMOMA, McEvoy Foundation for the Arts, mixNYC, San Francisco Cinematheque, and the British Film Institute.
                     <br></br>
                     <br></br>
-                    They currently lead Instructor Development programs at <Link href="https://www.thelastmile.org">The Last Mile</Link> and teach courses in web development & MERN stack for justice-impacted folks across the country.
+                    They currently lead Instructor Development programs at <Link href="https://www.thelastmile.org">The Last Mile</Link> and teach courses in web development (MERN stack), digital literacy, and project management for justice-impacted folks across the country.
                 </div>
                 <br></br>
                 {/* <span className="pr-2">find them here to collaborate:</span>
