@@ -8,7 +8,7 @@ const projects = [
     role: ["web developer"],
     tools: ['next.js', 'mongoDB', 'claude code'],
     shortDescription: "a resource-sharing app for chosen family networks",
-    longDescription: "some things are best shared - power tools, camping gear, extra sourdough starter. shed is a resource-sharing app for chosen family networks, where users can log their resources, add friends, and see all available resources in their network in one easy view. when we connect, we have everything we need.",
+    longDescription: "some things are best shared - power tools, camping gear, extra sourdough starter. shed is a resource-sharing app for chosen family networks, where users can log their resources, add friends, and see all available resources in their network in one filterable view. users can also download a text file log of their resource shed, so they can access a list of their chosen family network's resources offline. when we connect, we have everything we need.",
     screenings: null,
     siteLink: "",
     img: '/shed2.png',
