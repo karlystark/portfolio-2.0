@@ -1,5 +1,22 @@
 const projects = [
-     {
+  {
+    name: "shed",
+    year: "2026",
+    format: "",
+    type: "web",
+    length: "",
+    role: ["web developer"],
+    tools: ['next.js', 'mongoDB', 'claude code'],
+    shortDescription: "a resource-sharing app for chosen family networks",
+    longDescription: "some things are best shared - power tools, camping gear, extra sourdough starter. shed is a resource-sharing app for chosen family networks, where users can log their resources, add friends, and see all available resources in their network in one easy view. when we connect, we have everything we need.",
+    screenings: null,
+    siteLink: "",
+    img: '/shed1.png',
+    docImgs: ['/shed2.png', '/shed3.png'],
+    vidLinks: [],
+    slug: "shed",
+  },
+  {
     name: "meet me by the",
     year: "2026",
     format: "",
