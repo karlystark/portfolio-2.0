@@ -12,7 +12,7 @@ const projects = [
     screenings: null,
     siteLink: "",
     img: '/shed_6.png',
-    docImgs: ['/shed_1.png', '/shed_4.png', '/shed_5.png', '/shed_2.png', '/shed_3.png'],
+    docImgs: ['/shed_4.png', '/shed_1.png', '/shed_5.png', '/shed_2.png', '/shed_3.png'],
     vidLinks: [],
     slug: "shed",
   },
