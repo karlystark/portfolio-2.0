@@ -8,7 +8,7 @@ const projects = [
     role: ["web developer"],
     tools: ['html', 'css', 'javascript', 'claude code'],
     shortDescription: "recombinant interactive poetry",
-    longDescription: "meetmebythe is an ever-expanding interactive poetry site that draws from a bank of poem fragments. an experiment in recombinant poetry, each page allows the user to interact with and experience different iterations of the poem's fragments. the site explores the visible and hidden, the limits of communication, and meaning-making in proximity.",
+    longDescription: "meetmebythe is an ever-expanding interactive & recombinant poetry site. each page allows users to interact with and experience different iterations & combinations of the poem's fragments. the site explores the visible and hidden, the limits and expansiveness of communication, and meaning-making in proximity. it's also about love.",
     screenings: null,
     siteLink: "https://meetmebythe.com/",
     img: '/meetmebythe2.png',
