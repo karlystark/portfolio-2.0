@@ -14,11 +14,13 @@ function Card({name, img, slug, year}) {
 
     return (
         <div onMouseEnter={() => { setIsActive(true); }} onMouseLeave={() => { setIsActive(false); }} className={styles.project}>
+            <Link href={`/projects/${slug}`}>
             <p>{name}</p>
             <motion.div variants={anim} animate={isActive ? "open" : "closed"} className={styles.imgContainer}>
-                <Link href={`/projects/${slug}`}><img src={img} alt={name}></img></Link>
+                <img src={img} alt={name}></img>
             </motion.div>
             <p className="text-base">{year}</p>
+            </Link>
         </div>
     );
 }
